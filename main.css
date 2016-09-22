@@ -1,3 +1,25 @@
-h1.cycles {
-  color:#00ff00;
+.cycles {
+  color:white;
+  background-color:black;
+  text-align:center;
+}
+
+.models{
+  color:white;
+  background-color:#E7E42A;
+  text-align:center;
+}
+
+.riders{
+  color:white;
+  background-color:#15CDD3;
+  text-align:center;
+}
+
+.modspecs{
+  text-align: left;
+}
+
+.kelly{
+  text-align: right;
 }
