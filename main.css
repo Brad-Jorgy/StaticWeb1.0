@@ -24,15 +24,13 @@
 }
 
 .kelly{
-  text-align: right;
-  padding-left: 2cm;
+  text-align: left;
 }
 
 .table{
   width:50%
-  padding-left= 1cm;
 }
 
 .creation{
-  padding-left= 1cm;
+  text-align: center;
 }
